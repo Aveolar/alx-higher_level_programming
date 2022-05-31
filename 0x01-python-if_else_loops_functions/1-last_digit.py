@@ -15,4 +15,3 @@ elif last_digit == 0:
     print(message, "0")
 else:
     print(message, "less than 6 and not 0")
-
